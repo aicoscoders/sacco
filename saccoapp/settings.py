@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure--^_%pi7$nn@e0lf5s^v&ajbd2r%+$wblny(57$iqy90z-9k+n!
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['.railway.app','127.0.0.1','whale-app-4gpbw.ondigitalocean.app', 'sacco.rw', 'www.sacco.rw']
+ALLOWED_HOSTS = ['.railway.app','127.0.0.1','whale-app-4gpbw.ondigitalocean.app', 'sacco.rw', 'www.sacco.rw', 'saccorw.herokuapp.com']
 
 
 # Application definition
